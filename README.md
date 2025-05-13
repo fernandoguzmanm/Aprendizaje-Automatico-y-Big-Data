@@ -1,1 +1,3 @@
-# Aprendizaje-Automatico-y-Big-Data
+Este repositorio recoge las prácticas y el proyecto final realizados durante la asignatura Aprendizaje Automático y Big Data.
+A lo largo del curso hemos aprendido a utilizar herramientas de inteligencia artificial para resolver problemas reales con Python. Hemos trabajado con modelos supervisados y no supervisados, regresión, redes neuronales y técnicas de deep learning. También nos hemos aprendido a usar la Inteligencia Artificial Explicable (XAI), aprendiendo a interpretar cómo y por qué una IA toma decisiones.
+Todo lo aprendido se ha aplicado en prácticas con librerías como Scikit-learn, Keras, PyTorch y SHAP, y se ha usado en un proyecto final que integra varias de estas técnicas.
